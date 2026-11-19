@@ -1,6 +1,5 @@
-##¡Hola! Soy Ana Zafra Vallejo 👋
-##👩‍💻 Desarrolladora Web Junior | Estudiante de DAW
-
+¡Hola! Soy Ana Zafra Vallejo 👋
+👩‍💻 Desarrolladora Web Junior | Estudiante de DAW
 Soy estudiante de Desarrollo de Aplicaciones Web (DAW) en Fuengirola (Málaga). Me apasiona el desarrollo frontend y la creación de interfaces limpias, pero también disfruto con la lógica del backend y la gestión de bases de datos.
 
 Estoy buscando mis primeras prácticas o un puesto junior donde pueda seguir aprendiendo, aportar valor y trabajar en equipo.
@@ -43,4 +42,5 @@ Aquí tienes algunos de los proyectos en los que he estado trabajando. ¡Echa un
 
 📫 Contacto
 LinkedIn: ana-zafra-492907390
+
 Email: anazafravallejo@icloud.com
