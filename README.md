@@ -21,7 +21,7 @@ Estoy buscando mis primeras prácticas o un puesto junior donde pueda seguir apr
 
 Aquí tienes algunos de los proyectos en los que he estado trabajando. ¡Echa un vistazo!
 
-*   🌐 **[Web del Hospital](https://github.com/AnaZ97-dev/web-hospital):** Landing page completa con HTML, CSS y manipulación del DOM con JavaScript.
+*   🌐 **[Web del Hospital](https://github.com/AnaZ97-dev/web-har-roquetas):** Landing page completa con HTML, CSS y manipulación del DOM con JavaScript.
 *   🗄️ **[Gestión de Base de Datos (MySQL)](https://github.com/AnaZ97-dev/base-datos-gimnasio-mysql):** Diseño relacional y consultas avanzadas para gimnasio y farmacia.
 *   ⚙️ **[Programación PL/SQL (Oracle)](https://github.com/AnaZ97-dev/plsql-farmacia-oracle):** Procedimientos, funciones y triggers para gestión farmacéutica.
 *   🍃 **[Bases de Datos NoSQL (MongoDB)](https://github.com/AnaZ97-dev/mongodb-turismo-alojamientos):** Creación de base de datos documental e inserción de datos JSON.
